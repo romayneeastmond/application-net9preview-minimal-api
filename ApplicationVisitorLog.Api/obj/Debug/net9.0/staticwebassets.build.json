@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HbkNwIno0ab7QEc9pSqoKGL61w0xCzrLyhxmDpMA6t0=",
+  "Source": "ApplicationVisitorLog.Api",
+  "BasePath": "_content/ApplicationVisitorLog.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

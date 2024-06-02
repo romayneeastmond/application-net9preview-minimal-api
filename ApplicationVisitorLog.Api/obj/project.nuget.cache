@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i20reFzNtBo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romay\\source\\repos\\ApplicationVisitorLog\\ApplicationVisitorLog.Api\\ApplicationVisitorLog.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romay\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-preview.4.24267.6\\microsoft.aspnetcore.openapi.9.0.0-preview.4.24267.6.nupkg.sha512",
+    "C:\\Users\\romay\\.nuget\\packages\\microsoft.openapi\\1.6.13\\microsoft.openapi.1.6.13.nupkg.sha512",
+    "C:\\Users\\romay\\.nuget\\packages\\scalar.aspnetcore\\1.1.1\\scalar.aspnetcore.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
